@@ -44,4 +44,4 @@ You can view the Power BI Dashboard here 👉 [Link to Power BI Report if hosted
 **Sudhamsha Sagar**  
 _Data Analyst | Aspiring ML Engineer | Business Analyst_  
 📧 sudhamshasagar@gmail.com | 📞 7975073574  
-🔗 [LinkedIn](your-link) | [GitHub](your-link)
+🔗 [LinkedIn](https://www.linkedin.com/sudhamsha-sagar) | [GitHub](https://github.com/sudhamshasagar)
